@@ -1,0 +1,16 @@
+h1 { 
+    color: brown;
+}
+
+p { 
+    background-color: blue;
+}
+
+#google {
+    background-color: blue;
+}
+
+.image { 
+    background-color: red; 
+    padding: 50px;
+}
